@@ -1,7 +1,6 @@
 # GUI SAFIRA MATLAB | Pengolahan Citra
 
-Silahkan dilihat codingan difile PengolahanCitra.m menggunakan Software di MATLAB
-
+Silahkan dilihat codingan difile ## PengolahanCitra.m menggunakan Software di MATLAB
 
 Safira NOvianti
 311910324
