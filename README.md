@@ -2,7 +2,7 @@
 
 Silahkan dilihat codingan difile ## PengolahanCitra.m menggunakan Software di MATLAB
 
-Safira NOvianti
-311910324
-TI.19.A.2
-Universitas Pelita Bangsa
+## Safira Novianti
+## 311910324
+## TI.19.A.2
+## Universitas Pelita Bangsa
